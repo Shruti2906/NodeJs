@@ -1,0 +1,22 @@
+// node hello.js vs npm run start
+// explain cmd npm run
+// module object? module.exports
+
+
+// 5.
+// what is blocking & non blocking in node ? eg
+// what if thread is not available in tne thread pool.
+//but why  do we have sync/async methods in the module itself? can't we write it in async function/
+// how to increase thread in event pool
+
+what we call as a server, how it has functionality to interli 
+listen to requests?
+
+/res object in detail,?
+// res.end()      ?
+  res.send();?  explain res & send();
+
+  is node also single threaded like js?
+  threading in java
+
+but why are different http methodsget & post is ok but why delete, delete can be dome using post then why different method?

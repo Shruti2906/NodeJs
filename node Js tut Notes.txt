@@ -1,0 +1,8 @@
+in node we can see some functions will not work eg. window object, alert()..etc why?
+	-beacuse node was created by embeding V8 engine in c++ compile. but while doing so, features related to DOM manipulation are removed.
+	as its for sure that node will be used at server side. and various features like encryption etc are added.
+
+npm:
+	node package manager.
+	npm init- it creates a file(package.json) that is used to run our project.
+	package.json is used to 
